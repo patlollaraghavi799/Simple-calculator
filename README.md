@@ -1,3 +1,5 @@
+Simple Calculator
+
 A command-line based calculator application built using Java that performs basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
 The program takes user input using the Scanner class and processes operations using switch-case statements. It also includes error handling for division by zero and allows users to perform multiple calculations until they choose to exit.
